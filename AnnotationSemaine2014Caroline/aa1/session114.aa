@@ -1,0 +1,4128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotations>
+<metadata corpusHashcode="5160-95350464"/>
+<unit id="TXT_IMPORTER_1391209016163">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016163</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="0"/>
+</start>
+<end>
+<singlePosition index="100"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016164">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016164</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="100"/>
+</start>
+<end>
+<singlePosition index="181"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016165">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016165</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="181"/>
+</start>
+<end>
+<singlePosition index="269"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016166">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016166</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="269"/>
+</start>
+<end>
+<singlePosition index="363"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016167">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016167</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="363"/>
+</start>
+<end>
+<singlePosition index="452"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016168">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016168</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="452"/>
+</start>
+<end>
+<singlePosition index="513"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016169">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016169</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="513"/>
+</start>
+<end>
+<singlePosition index="601"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016170">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016170</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="601"/>
+</start>
+<end>
+<singlePosition index="665"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016171">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016171</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="665"/>
+</start>
+<end>
+<singlePosition index="740"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016172">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016172</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="740"/>
+</start>
+<end>
+<singlePosition index="820"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016173">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016173</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="820"/>
+</start>
+<end>
+<singlePosition index="882"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016174">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016174</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="882"/>
+</start>
+<end>
+<singlePosition index="943"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016175">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016175</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="943"/>
+</start>
+<end>
+<singlePosition index="1032"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016176">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016176</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1032"/>
+</start>
+<end>
+<singlePosition index="1170"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016177">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016177</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1170"/>
+</start>
+<end>
+<singlePosition index="1238"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016178">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016178</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1238"/>
+</start>
+<end>
+<singlePosition index="1383"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016179">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016179</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1383"/>
+</start>
+<end>
+<singlePosition index="1483"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016180">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016180</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1483"/>
+</start>
+<end>
+<singlePosition index="1588"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016181">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016181</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1588"/>
+</start>
+<end>
+<singlePosition index="1650"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016182">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016182</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1650"/>
+</start>
+<end>
+<singlePosition index="1719"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016183">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016183</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1719"/>
+</start>
+<end>
+<singlePosition index="1770"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016184">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016184</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1770"/>
+</start>
+<end>
+<singlePosition index="1835"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016185">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016185</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1835"/>
+</start>
+<end>
+<singlePosition index="1894"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016186">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016186</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1894"/>
+</start>
+<end>
+<singlePosition index="1975"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016187">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016187</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1975"/>
+</start>
+<end>
+<singlePosition index="2070"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016188">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016188</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2070"/>
+</start>
+<end>
+<singlePosition index="2155"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016189">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016189</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2155"/>
+</start>
+<end>
+<singlePosition index="2247"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016190">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016190</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2247"/>
+</start>
+<end>
+<singlePosition index="2332"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016191">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016191</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2332"/>
+</start>
+<end>
+<singlePosition index="2420"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016192">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016192</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2420"/>
+</start>
+<end>
+<singlePosition index="2550"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016193">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016193</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2550"/>
+</start>
+<end>
+<singlePosition index="2651"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016194">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016194</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2651"/>
+</start>
+<end>
+<singlePosition index="2723"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016195">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016195</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2723"/>
+</start>
+<end>
+<singlePosition index="2799"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016196">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016196</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2799"/>
+</start>
+<end>
+<singlePosition index="2920"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016197">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016197</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2920"/>
+</start>
+<end>
+<singlePosition index="2997"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016198">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016198</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2997"/>
+</start>
+<end>
+<singlePosition index="3078"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016199">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016199</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3078"/>
+</start>
+<end>
+<singlePosition index="3159"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016200">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016200</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3159"/>
+</start>
+<end>
+<singlePosition index="3357"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016201">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016201</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3357"/>
+</start>
+<end>
+<singlePosition index="3427"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016202">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016202</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3427"/>
+</start>
+<end>
+<singlePosition index="3548"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016203">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016203</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3548"/>
+</start>
+<end>
+<singlePosition index="3619"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016204">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016204</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3619"/>
+</start>
+<end>
+<singlePosition index="3686"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016205">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016205</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3686"/>
+</start>
+<end>
+<singlePosition index="3743"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016206">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016206</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3743"/>
+</start>
+<end>
+<singlePosition index="3871"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016207">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016207</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3871"/>
+</start>
+<end>
+<singlePosition index="3937"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016208">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016208</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3937"/>
+</start>
+<end>
+<singlePosition index="4041"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016209">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016209</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4041"/>
+</start>
+<end>
+<singlePosition index="4117"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016210">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016210</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4117"/>
+</start>
+<end>
+<singlePosition index="4198"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016211">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016211</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4198"/>
+</start>
+<end>
+<singlePosition index="4294"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016212">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016212</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4294"/>
+</start>
+<end>
+<singlePosition index="4539"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016213">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016213</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4539"/>
+</start>
+<end>
+<singlePosition index="4613"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016214">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016214</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4613"/>
+</start>
+<end>
+<singlePosition index="4698"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016215">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016215</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4698"/>
+</start>
+<end>
+<singlePosition index="4801"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016216">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016216</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4801"/>
+</start>
+<end>
+<singlePosition index="4894"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016217">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016217</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4894"/>
+</start>
+<end>
+<singlePosition index="4983"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016218">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016218</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4983"/>
+</start>
+<end>
+<singlePosition index="5050"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016219">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016219</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5050"/>
+</start>
+<end>
+<singlePosition index="5109"/>
+</end>
+</positioning>
+</unit>
+<unit id="TXT_IMPORTER_1391209016220">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1391209016220</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5109"/>
+</start>
+<end>
+<singlePosition index="5160"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209614690">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209614690</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391209915048</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">assertive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="47"/>
+</start>
+<end>
+<singlePosition index="100"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209680434">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209680434</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210223426</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="717"/>
+</start>
+<end>
+<singlePosition index="740"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209781619">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209781619</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210246191</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="867"/>
+</start>
+<end>
+<singlePosition index="882"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209784531">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209784531</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210276132</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="990"/>
+</start>
+<end>
+<singlePosition index="1032"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209788954">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209788954</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210297605</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1217"/>
+</start>
+<end>
+<singlePosition index="1238"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209806722">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209806722</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211482233</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1635"/>
+</start>
+<end>
+<singlePosition index="1650"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209810315">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209810315</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210322092</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1766"/>
+</start>
+<end>
+<singlePosition index="1770"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209812843">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209812843</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210396060</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1882"/>
+</start>
+<end>
+<singlePosition index="1894"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209834131">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209834131</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210548964</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2379"/>
+</start>
+<end>
+<singlePosition index="2420"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209840418">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209840418</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210692795</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2771"/>
+</start>
+<end>
+<singlePosition index="2799"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209843563">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209843563</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210766787</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2968"/>
+</start>
+<end>
+<singlePosition index="2997"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209847107">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209847107</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210777235</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3126"/>
+</start>
+<end>
+<singlePosition index="3159"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209851715">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209851715</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210829050</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3405"/>
+</start>
+<end>
+<singlePosition index="3427"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209855778">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209855778</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210839042</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3596"/>
+</start>
+<end>
+<singlePosition index="3619"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209858874">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209858874</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210846738</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3734"/>
+</start>
+<end>
+<singlePosition index="3743"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209866747">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209866747</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210871490</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4089"/>
+</start>
+<end>
+<singlePosition index="4117"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209871427">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209871427</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210939546</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4246"/>
+</start>
+<end>
+<singlePosition index="4294"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209874131">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209874131</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210952802</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4587"/>
+</start>
+<end>
+<singlePosition index="4613"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209887171">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209887171</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210988882</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4942"/>
+</start>
+<end>
+<singlePosition index="4983"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211089971">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211089971</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211092128</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="241"/>
+</start>
+<end>
+<singlePosition index="242"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211108203">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211108203</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212916004</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="560"/>
+</start>
+<end>
+<singlePosition index="562"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211207906">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211207906</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211211216</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2598"/>
+</start>
+<end>
+<singlePosition index="2599"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209799995">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209799995</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210312843</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1443"/>
+</start>
+<end>
+<singlePosition index="1483"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209820322">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209820322</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210488908</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">none</feature>
+<feature name="illocutionaryForce">assertive</feature>
+<feature name="attitudePolarity">none</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2202"/>
+</start>
+<end>
+<singlePosition index="2247"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211254129">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211254129</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211283872</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4770"/>
+</start>
+<end>
+<singlePosition index="4772"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211294874">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211294874</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211296928</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="258"/>
+</start>
+<end>
+<singlePosition index="269"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211319066">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211319066</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211321280</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="410"/>
+</start>
+<end>
+<singlePosition index="413"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211325081">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211325081</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211327409</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="450"/>
+</start>
+<end>
+<singlePosition index="452"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211352162">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211352162</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211364121</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="578"/>
+</start>
+<end>
+<singlePosition index="587"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211392034">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211392034</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212978464</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="786"/>
+</start>
+<end>
+<singlePosition index="820"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211574266">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211574266</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211580561</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2022"/>
+</start>
+<end>
+<singlePosition index="2025"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211595274">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211595274</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211597233</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2293"/>
+</start>
+<end>
+<singlePosition index="2332"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211648554">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211648554</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211660770</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3933"/>
+</start>
+<end>
+<singlePosition index="3937"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391211685778">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391211685778</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391211689592</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4349"/>
+</start>
+<end>
+<singlePosition index="4539"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212335020">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212335020</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212336412</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4786"/>
+</start>
+<end>
+<singlePosition index="4801"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212361893">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212361893</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>appraisalItem</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="331"/>
+</start>
+<end>
+<singlePosition index="343"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212384157">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212384157</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212797039</lastModificationDate>
+</metadata>
+<characterisation>
+<type>appraisalItem</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="930"/>
+</start>
+<end>
+<singlePosition index="943"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212426461">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212426461</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212434829</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1702"/>
+</start>
+<end>
+<singlePosition index="1719"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212484717">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212484717</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>appraisalItem</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2536"/>
+</start>
+<end>
+<singlePosition index="2546"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212497549">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212497549</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>appraisalItem</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2884"/>
+</start>
+<end>
+<singlePosition index="2888"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212525948">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212525948</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>appraisalItem</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3300"/>
+</start>
+<end>
+<singlePosition index="3309"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212734183">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212734183</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391213134176</lastModificationDate>
+</metadata>
+<characterisation>
+<type>answer</type>
+<featureSet>
+<feature name="answerType"/>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4660"/>
+</start>
+<end>
+<singlePosition index="4698"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212751367">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212751367</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>appraisalItem</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4859"/>
+</start>
+<end>
+<singlePosition index="4870"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212770623">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212770623</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212772280</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="327"/>
+</start>
+<end>
+<singlePosition index="329"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212778159">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212778159</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212817345</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="928"/>
+</start>
+<end>
+<singlePosition index="929"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212842183">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212842183</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212844063</lastModificationDate>
+</metadata>
+<characterisation>
+<type>sourceInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2510"/>
+</start>
+<end>
+<singlePosition index="2513"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212904918">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212904918</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212906871</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="344"/>
+</start>
+<end>
+<singlePosition index="363"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212928798">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212928798</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>answer</type>
+<featureSet>
+<feature name="answerType"/>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="647"/>
+</start>
+<end>
+<singlePosition index="665"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209816939">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209816939</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210459148</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2022"/>
+</start>
+<end>
+<singlePosition index="2070"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209864427">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209864427</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210860858</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">undefined</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3919"/>
+</start>
+<end>
+<singlePosition index="3937"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209623698">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209623698</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391209951783</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="410"/>
+</start>
+<end>
+<singlePosition index="452"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209878219">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209878219</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210977210</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4746"/>
+</start>
+<end>
+<singlePosition index="4801"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209620442">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209620442</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391209927392</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">affect</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="228"/>
+</start>
+<end>
+<singlePosition index="269"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209629658">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209629658</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391209965007</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">expressive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="560"/>
+</start>
+<end>
+<singlePosition index="601"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391209837507">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391209837507</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391210673115</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorUtterance</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="illocutionaryForce">directive</feature>
+<feature name="attitudePolarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2598"/>
+</start>
+<end>
+<singlePosition index="2651"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391212939494">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391212939494</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391212967528</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="785"/>
+</start>
+<end>
+<singlePosition index="820"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391213002422">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213002422</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>answer</type>
+<featureSet>
+<feature name="answerType"/>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1078"/>
+</start>
+<end>
+<singlePosition index="1092"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391213037700">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213037700</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391213044862</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2547"/>
+</start>
+<end>
+<singlePosition index="2550"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391213052300">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213052300</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391213054269</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2889"/>
+</start>
+<end>
+<singlePosition index="2920"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391213117748">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213117748</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391213119894</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3310"/>
+</start>
+<end>
+<singlePosition index="3357"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391213154756">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213154756</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391213156886</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInUserUtterance</type>
+<featureSet>
+<feature name="roleInCS">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4871"/>
+</start>
+<end>
+<singlePosition index="4894"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297084745">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297084745</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297126644</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="261"/>
+</start>
+<end>
+<singlePosition index="269"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297108286">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297108286</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1392213473352</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subTopic</type>
+<featureSet>
+<feature name="startedBy">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="798"/>
+</start>
+<end>
+<singlePosition index="803"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297143947">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297143947</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297173149</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1462"/>
+</start>
+<end>
+<singlePosition index="1483"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297155890">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297155890</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297168805</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subTopic</type>
+<featureSet>
+<feature name="startedBy">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1556"/>
+</start>
+<end>
+<singlePosition index="1564"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297235967">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297235967</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297237773</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2221"/>
+</start>
+<end>
+<singlePosition index="2247"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297245849">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297245849</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297248531</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subTopic</type>
+<featureSet>
+<feature name="startedBy">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2314"/>
+</start>
+<end>
+<singlePosition index="2323"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297290862">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297290862</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297292714</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">user</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2479"/>
+</start>
+<end>
+<singlePosition index="2488"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297403865">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297403865</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297405774</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3140"/>
+</start>
+<end>
+<singlePosition index="3159"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297425861">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297425861</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297427339</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4112"/>
+</start>
+<end>
+<singlePosition index="4117"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297489034">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297489034</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297491600</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4794"/>
+</start>
+<end>
+<singlePosition index="4801"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1391297613979">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297613979</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1391297616721</lastModificationDate>
+</metadata>
+<characterisation>
+<type>targetInOperatorUtterance</type>
+<featureSet>
+<feature name="roleInCS">notInCS</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2775"/>
+</start>
+<end>
+<singlePosition index="2785"/>
+</end>
+</positioning>
+</unit>
+<unit id="clanglet_1392213459434">
+<metadata>
+<author>clanglet</author>
+<creation-date>1392213459434</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1392213462029</lastModificationDate>
+</metadata>
+<characterisation>
+<type>topic</type>
+<featureSet>
+<feature name="startedBy">operator</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="725"/>
+</start>
+<end>
+<singlePosition index="740"/>
+</end>
+</positioning>
+</unit>
+<relation id="clanglet_1391213163806">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213163806</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209620442"/>
+<term id="clanglet_1391211294874"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213167868">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213167868</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209623698"/>
+<term id="clanglet_1391211319066"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213169932">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213169932</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212361893"/>
+<term id="clanglet_1391212904918"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213173964">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213173964</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209629658"/>
+<term id="clanglet_1391211352162"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213178995">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213178995</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209781619"/>
+<term id="clanglet_1391211392034"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213181836">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213181836</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212384157"/>
+<term id="clanglet_1391212939494"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213187308">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213187308</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209784531"/>
+<term id="clanglet_1391212939494"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213230291">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213230291</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209810315"/>
+<term id="clanglet_1391212426461"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213233988">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213233988</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209816939"/>
+<term id="clanglet_1391211574266"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213236956">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213236956</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209834131"/>
+<term id="clanglet_1391211595274"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213239436">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213239436</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212484717"/>
+<term id="clanglet_1391213037700"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213243212">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213243212</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212497549"/>
+<term id="clanglet_1391213052300"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213245731">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213245731</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212525948"/>
+<term id="clanglet_1391213117748"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213250708">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213250708</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209864427"/>
+<term id="clanglet_1391211648554"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213259052">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213259052</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209874131"/>
+<term id="clanglet_1391211685778"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213262636">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213262636</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209878219"/>
+<term id="clanglet_1391212335020"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213269612">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213269612</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212751367"/>
+<term id="clanglet_1391213154756"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213280956">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213280956</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209620442"/>
+<term id="clanglet_1391211089971"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213282772">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213282772</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212361893"/>
+<term id="clanglet_1391212770623"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213284892">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213284892</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209623698"/>
+<term id="clanglet_1391211325081"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213286900">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213286900</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209629658"/>
+<term id="clanglet_1391211108203"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213292852">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213292852</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212384157"/>
+<term id="clanglet_1391212778159"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213334578">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213334578</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209837507"/>
+<term id="clanglet_1391211207906"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213336868">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213336868</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212484717"/>
+<term id="clanglet_1391212842183"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391213391444">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213391444</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_source</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209878219"/>
+<term id="clanglet_1391211254129"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391296932506">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296932506</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>preceded_by</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213446611"/>
+<term id="clanglet_1391296563487"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391296937237">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296937237</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>preceded_by</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213474897"/>
+<term id="clanglet_1391296612018"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391296944523">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296944523</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>preceded_by</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213520177"/>
+<term id="clanglet_1391296688888"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391296949613">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296949613</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>preceded_by</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213543297"/>
+<term id="clanglet_1391296721888"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391296952997">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296952997</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>preceded_by</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213561361"/>
+<term id="clanglet_1391296729484"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391296957679">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296957679</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>preceded_by</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213584154"/>
+<term id="clanglet_1391296779469"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297504864">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297504864</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>generate_topic</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391211294874"/>
+<term id="clanglet_1391297084745"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297507459">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297507459</creation-date>
+<lastModifier>clanglet</lastModifier>
+<lastModificationDate>1392213386074</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212904918"/>
+<term id="clanglet_1391211294874"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297532851">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297532851</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>identity</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391211392034"/>
+<term id="clanglet_1391297108286"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297535675">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297535675</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>identity</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212939494"/>
+<term id="clanglet_1391211392034"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297550335">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297550335</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391297155890"/>
+<term id="clanglet_1391297143947"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297562679">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297562679</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212426461"/>
+<term id="clanglet_1391297155890"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297571665">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297571665</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391297245849"/>
+<term id="clanglet_1391297235967"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297574505">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297574505</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>identity</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391211595274"/>
+<term id="clanglet_1391297245849"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297620360">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297620360</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>has_target</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391209840418"/>
+<term id="clanglet_1391297613979"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297624792">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297624792</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391297613979"/>
+<term id="clanglet_1391297290862"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297694080">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297694080</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213052300"/>
+<term id="clanglet_1391297613979"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297699130">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297699130</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213117748"/>
+<term id="clanglet_1391297403865"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297726297">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297726297</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>subAspect</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391211685778"/>
+<term id="clanglet_1391297425861"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297734001">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297734001</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>identity</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391212335020"/>
+<term id="clanglet_1391297489034"/>
+</positioning>
+</relation>
+<relation id="clanglet_1391297745189">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391297745189</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>identity</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="clanglet_1391213154756"/>
+<term id="clanglet_1391297489034"/>
+</positioning>
+</relation>
+<schema id="clanglet_1391213446611">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213446611</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>userAttitude</type>
+<featureSet>
+<feature name="attitudeType">affect</feature>
+<feature name="polarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391212770623"/>
+<embedded-unit id="clanglet_1391212361893"/>
+<embedded-unit id="clanglet_1391212904918"/>
+<embedded-relation id="clanglet_1391213169932"/>
+<embedded-relation id="clanglet_1391213282772"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391213474897">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213474897</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>userAttitude</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="polarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391212384157"/>
+<embedded-unit id="clanglet_1391212778159"/>
+<embedded-unit id="clanglet_1391212939494"/>
+<embedded-relation id="clanglet_1391213181836"/>
+<embedded-relation id="clanglet_1391213292852"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391213520177">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213520177</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>userAttitude</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="polarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391212484717"/>
+<embedded-unit id="clanglet_1391213037700"/>
+<embedded-unit id="clanglet_1391212842183"/>
+<embedded-relation id="clanglet_1391213336868"/>
+<embedded-relation id="clanglet_1391213239436"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391213543297">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213543297</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>userAttitude</type>
+<featureSet>
+<feature name="attitudeType">evaluation</feature>
+<feature name="polarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391213052300"/>
+<embedded-unit id="clanglet_1391212497549"/>
+<embedded-relation id="clanglet_1391213243212"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391213561361">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213561361</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>userAttitude</type>
+<featureSet>
+<feature name="attitudeType">affect</feature>
+<feature name="polarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391212525948"/>
+<embedded-unit id="clanglet_1391213117748"/>
+<embedded-relation id="clanglet_1391213245731"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391213584154">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391213584154</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>userAttitude</type>
+<featureSet>
+<feature name="attitudeType">affect</feature>
+<feature name="polarity">positive</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391212751367"/>
+<embedded-unit id="clanglet_1391213154756"/>
+<embedded-relation id="clanglet_1391213269612"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296563487">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296563487</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209620442"/>
+<embedded-unit id="clanglet_1391211089971"/>
+<embedded-unit id="clanglet_1391211294874"/>
+<embedded-relation id="clanglet_1391213163806"/>
+<embedded-relation id="clanglet_1391213280956"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296573822">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296573822</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209623698"/>
+<embedded-unit id="clanglet_1391211319066"/>
+<embedded-unit id="clanglet_1391211325081"/>
+<embedded-relation id="clanglet_1391213284892"/>
+<embedded-relation id="clanglet_1391213167868"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296583563">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296583563</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209629658"/>
+<embedded-unit id="clanglet_1391211108203"/>
+<embedded-unit id="clanglet_1391211352162"/>
+<embedded-relation id="clanglet_1391213173964"/>
+<embedded-relation id="clanglet_1391213286900"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296605790">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296605790</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209680434"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296612018">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296612018</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209781619"/>
+<embedded-unit id="clanglet_1391211392034"/>
+<embedded-relation id="clanglet_1391213178995"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296621387">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296621387</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209784531"/>
+<embedded-unit id="clanglet_1391211392034"/>
+<embedded-relation id="clanglet_1391213187308"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296659943">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296659943</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209788954"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296664185">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296664185</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209799995"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296667495">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296667495</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209806722"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296670125">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296670125</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209810315"/>
+<embedded-unit id="clanglet_1391212426461"/>
+<embedded-relation id="clanglet_1391213230291"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296676484">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296676484</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209812843"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296678835">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296678835</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209816939"/>
+<embedded-unit id="clanglet_1391211574266"/>
+<embedded-relation id="clanglet_1391213233988"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296685426">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296685426</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209820322"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296688888">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296688888</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209834131"/>
+<embedded-unit id="clanglet_1391211595274"/>
+<embedded-relation id="clanglet_1391213236956"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296696364">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296696364</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209837507"/>
+<embedded-unit id="clanglet_1391211207906"/>
+<embedded-relation id="clanglet_1391213334578"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296721888">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296721888</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209840418"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296724586">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296724586</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209843563"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296729484">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296729484</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209847107"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296732229">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296732229</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209851715"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296738431">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296738431</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209855778"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296740597">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296740597</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209858874"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296743202">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296743202</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209864427"/>
+<embedded-unit id="clanglet_1391211648554"/>
+<embedded-relation id="clanglet_1391213250708"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296750726">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296750726</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209866747"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296753132">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296753132</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209871427"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296756080">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296756080</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209874131"/>
+<embedded-unit id="clanglet_1391211685778"/>
+<embedded-relation id="clanglet_1391213259052"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296779469">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296779469</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209878219"/>
+<embedded-unit id="clanglet_1391211254129"/>
+<embedded-unit id="clanglet_1391212335020"/>
+<embedded-relation id="clanglet_1391213262636"/>
+<embedded-relation id="clanglet_1391213391444"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391296788585">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391296788585</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209887171"/>
+</positioning>
+</schema>
+<schema id="clanglet_1391436336360">
+<metadata>
+<author>clanglet</author>
+<creation-date>1391436336360</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>operatorSchema</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="clanglet_1391209614690"/>
+</positioning>
+</schema>
+</annotations>
